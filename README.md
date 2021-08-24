@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning about Agricultural Engineering | Frontend | Artificial Intelligence
 - 📫 How to reach me: Connect to me via Email [Luiza Viana](luiza.viiana@outlook.com)
-- ⚡ Fun fact:  I like to swim 🏊‍♂️
+- ⚡ Fun fact:  I like to swim and surf 🏊‍♂️
 
  <p align="left">
 <h3 align="left">Connect with me: </h3>
