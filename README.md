@@ -5,8 +5,7 @@
 - ⚡ Fun fact:  I like to swim and surf 🏊‍♂️
 
  <p align="left">
-<h3 align="left">Connect with me: </h3>
-<a href="https://www.linkedin.com/in/ana-luiza-viana-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
