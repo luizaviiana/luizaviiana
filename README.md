@@ -1,25 +1,56 @@
-### Hi 👋, I'm Luiza Viana
+# Olá 👋, eu sou a Luiza Viana
 
-- 🌱 I’m currently learning about Agricultural Engineering | Frontend | Artificial Intelligence
-- 📫 How to reach me: Connect to me via Email [Luiza Viana](luiza.viiana@outlook.com)
-- ⚡ Fun fact:  I like to swim and surf 🏊‍♂️
+- 🎓 Engenheira Agrícola — UFCG  
+- 🎓 Pós-graduanda em **Engenharia e Ciência de Dados**  
+- 🌱 Apaixonada por **Ciência de Dados** e **Engenharia de Dados**  
+- 🏅 AWS Certified Cloud Practitioner  
+- 📫 Contato: [luiza.viiana@outlook.com](mailto:luiza.viiana@outlook.com)  
+- ⚡ Curiosidade: adoro nadar e surfar 🏊‍♀️🏄‍♀️
 
- <p align="left">
+---
 
+## 🚀 Linguagens e Ferramentas
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
- <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
-</p>     
-   
-  <div>
+## 📊 Minhas estatísticas
+<div align="center">
   <a href="https://github.com/luizaviiana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizaviiana&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaviiana&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizaviiana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaviiana&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
+
+---
+
+## 💻 Projetos em destaque
+<p float="left">
+  <a href="https://github.com/luizaviiana/compass">
+    <img src="https://img.shields.io/badge/GitHub-Compass-blue?logo=github" />
+  </a>
+  <a href="https://github.com/luizaviiana/DataTwitter-Eleitoral">
+    <img src="https://img.shields.io/badge/GitHub-DataTwitter--Eleitoral-blue?logo=github" />
+  </a>
+  <a href="https://github.com/luizaviiana/Convite--Interativo--Stitch">
+    <img src="https://img.shields.io/badge/GitHub-Convite--Interativo--Stitch-blue?logo=github" />
+  </a>
+</p>
+
+## 📈 Contribuições
+
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luizaviiana&theme=radical&hide_border=true)
+
+
+
+---
+
+
