@@ -47,8 +47,7 @@
 
 ## 📈 Contribuições
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luizaviiana&theme=radical&hide_border=true)
-
+![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizaviiana&theme=radical)
 
 
 ---
